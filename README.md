@@ -1,4 +1,4 @@
-<img src="https://github-readme-linkedin-git-master-emiiryvs-projects.vercel.app/user?username=emiiryv" />
+<img src="https://github-readme-linkedin-git-master-emiiryvs-projects.vercel.app/education?username=emiiryv" />
 
 <!--
 **emiiryv/emiiryv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
