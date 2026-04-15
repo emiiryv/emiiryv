@@ -4,9 +4,13 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">Senior-year Software Engineering student building backend-heavy apps with FastAPI/Node.js, PostgreSQL & Docker — into security and observability.</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://linkedin.com/in/emiiryv" target="_blank">
@@ -15,6 +19,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -55,6 +61,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=emiiryv&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
